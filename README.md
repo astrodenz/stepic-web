@@ -1,1 +1,1 @@
-stepic web server
+stepic learn web server
